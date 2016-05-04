@@ -16,5 +16,7 @@ avec une ligne de separation
 
 fichier html et css separer par partie de page !!!
 
+faire attention a ne pas ce marcher sur les pieds
+
 
 
