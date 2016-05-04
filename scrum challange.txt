@@ -1,0 +1,20 @@
+repartition des taches entre antoine et redfish 
+
+
+Nav bar : hover ....> modif couleur (lien vide )
+
+header: logo d'en-tete avec titre avec logo sociaux 
+
+body:  paragraphe sur deux trois ligne
+
+avec une ligne de separation  
+
+
+3 colones avec une images 
+
+
+
+fichier html et css separer par partie de page !!!
+
+
+
