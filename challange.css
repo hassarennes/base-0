@@ -5,12 +5,14 @@ html {
 }
 
 header {
-	padding-left: 190px;
-	padding-right: 190px;
+	padding-left: 65px;
 	font-size: 15px;
 	width: 1020px;
-	height: 380px;
-	 background:url("img/bg.jpg");
+	height: 0px;
+	background: url("img/bg.jpg");
+
+
+
 }
 
 #currentPage a {
@@ -22,6 +24,7 @@ header {
 	color: #CFA205;
 	text-align: center;
 	height: 320px;
+	margin-left: -121px;
 }
 
 #headerSocial {
@@ -29,6 +32,7 @@ header {
 	height: 69.5px;
 	margin-top: -6px;
 	background-color: #000;
+	margin-left: -121px;
 }
 
 #headerSubTitle {
@@ -45,6 +49,7 @@ header {
 	padding-left: 120px;
 	padding-right: 120px;
 	height: 40px;
+	margin-left: 121px;
 }
 
 .topMenuEntry a {
@@ -69,17 +74,16 @@ h1 {
 	box-shadow: 1px 1px 1px 1px ;
 
 }
-body{
-	  color: white;
-	  background-color: white;
+body {
+
+	   color: white;
+	background-color: white;
 	opacity: 1.5;
-	width: 500px;
-	height: 100%;	
-	
+	width: 1024px;
+	height: 100%;
 	border: 10px;
-	display: inline;
-	margin-right:150px;
-   	margin-left:150px;
+	margin-left: 250px;
+	padding: 60px 56px 500px 56px;
 }
 
 
@@ -89,8 +93,7 @@ body{
 			columns: 3;
 			width: 900px;
 			height: 675px;
-			margin-left: 200px;
-
+			margin-left: 70px;
 }
 	
 img
@@ -130,7 +133,7 @@ h3
 	color:black;
 	font-size: 20px;
 	text-align: center;
-	margin-top: 200px;
+	margin-top: 545px;
 	margin-bottom: 200px;
 	margin-left:200px;
 	margin-right: 200px;
