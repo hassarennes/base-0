@@ -67,9 +67,6 @@ h1 {
 #container
 { 	 
 	box-shadow: 1px 1px 1px 1px ;
-	display: inline;
-	margin-right:150px;
-   	margin-left:150px;
 
 }
 body{
@@ -80,27 +77,10 @@ body{
 	height: 100%;	
 	
 	border: 10px;
-	background: white;
 	display: inline;
 	margin-right:150px;
    	margin-left:150px;
 }
-
-
-
-
-
-
-
-body {
-  color: white;
-  font-family: helvetica, arial, sans-serif;
-  background-color: white;	
-} 
-
-
-
-
 
 
 .columns {
