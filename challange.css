@@ -2,15 +2,19 @@ html {
 	width: 1400px;
 	height: 1010px;
 	background: url("img/bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 header {
-	padding-left: 65px;
+	padding-left: 34px;
 	font-size: 15px;
-	width: 1020px;
+	width: 1139px;
 	height: 0px;
 	background: url("img/bg.jpg");
-
+	margin-left: -90px;
 
 
 }
@@ -20,19 +24,29 @@ header {
 }
 
 #headerTop {
-	background-color: #000000;
+	
 	color: #CFA205;
 	text-align: center;
-	height: 320px;
-	margin-left: -121px;
+	background-color: black;
+	padding-bottom: 60px;
+
+
+
 }
 
 #headerSocial {
+	
+	height: 60px;
+	background-color: #E8E8E8;
+	margin-right: 2px;
 
-	height: 69.5px;
-	margin-top: -6px;
-	background-color: #000;
-	margin-left: -121px;
+
+
+
+}
+
+
+
 }
 
 #headerSubTitle {
@@ -40,6 +54,14 @@ header {
 	font-weight: bold;
 	height: 60px;
 	color: #CFA205;
+}
+
+.headerSocialImage {
+	height: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 #topMenu {
@@ -50,6 +72,7 @@ header {
 	padding-right: 120px;
 	height: 40px;
 	margin-left: 121px;
+	margin-top: -60px;
 }
 
 .topMenuEntry a {
@@ -67,6 +90,7 @@ header {
 h1 {
 	font-family: "Josefin Sans";
 	font-size: 100px;
+	padding-top: 75px;
 }
 
 #container
@@ -96,7 +120,7 @@ body {
 			margin-left: 70px;
 }
 	
-img
+/*img
 {
 width: 260px;
 height: 190px;
@@ -104,12 +128,12 @@ margin-left: 50px;
 margin-right: 50px;
 margin-top: 10px;
 margin-left: 20px;
-}
+}*/
 
 
 
 	
-p {
+#p{
 			color: #333;
 			padding: 5px;
 			background: beige;
@@ -133,15 +157,17 @@ h3
 	color:black;
 	font-size: 20px;
 	text-align: center;
-	margin-top: 545px;
-	margin-bottom: 200px;
+	margin-top: 610px;
+	margin-bottom: 150px;
 	margin-left:200px;
 	margin-right: 200px;
 }
-			padding: 10px;
-			margin: 0;
-			background: beige;
+
+h2
+{
+color: green;
 }
+
 
  
 
