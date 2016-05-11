@@ -1,0 +1,187 @@
+html {
+	width: 1400px;
+	height: 1010px;
+	background: url("img/bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	padding-left: 34px;
+	font-size: 15px;
+	width: 1139px;
+	height: 0px;
+	background: url("img/bg.jpg");
+	margin-left: -90px;
+
+
+}
+
+#currentPage a {
+	color: #609C92;
+}
+
+#headerTop {
+	
+	
+	color: #CFA205;
+	text-align: center;
+	background-color: #609C92;
+	padding-bottom: 60px;
+
+
+
+
+}
+
+#headerSocial {
+	
+	height: 60px;
+	background-color:#609C92;
+	margin-right: 2px;
+
+
+
+
+}
+
+
+
+}
+
+#headerSubTitle {
+	font-family: "Bitter";
+	font-weight: bold;
+	height: 60px;
+	color: #609C92;
+}
+
+.headerSocialImage {
+	height: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#topMenu {
+	font-family: "Josefin Sans";
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 120px;
+	padding-right: 120px;
+	height: 40px;
+	margin-left: 170px;
+	
+}
+
+.topMenuEntry a {
+	float: left;
+	text-decoration: none;
+	color: black;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.topMenuEntry a:hover,a:focus,a:active {
+	color: #00ED04;
+}
+
+h1 {
+	font-family: "Tahoma";
+	font-size: 70px;
+	padding-top: 75px;
+	margin-top: -50px;
+	color: #00ED04;
+}
+
+#container
+{ 	 
+	box-shadow: 1px 1px 1px 1px ;
+
+}
+body {
+
+	   color: #00ED04;
+	background-color: blue;
+	opacity: 1.5;
+	width: 1024px;
+	height: 100%;
+	border: 10px;
+	margin-left: 150px;
+	padding: 60px 56px 500px 56px;
+}
+
+
+.columns {
+			-webkit-columns: 3;
+			-moz-columns: 3;
+			columns: 3;
+			width: 900px;
+			height: 675px;
+			margin-left: 70px;
+			margin-top: 400px;
+		}
+.img
+{
+width: 260px;
+height: 225px;
+margin-right: 650px;
+margin-top: -58px;
+margin-left: 20px;
+}
+
+
+.image{
+width: 300px;
+height: 300px;
+margin-bottom: 50px;
+margin-top: 100px;
+margin-left: -27px;
+
+
+}
+
+
+	
+#p{
+			color: #333;
+			padding: 5px;
+			background: #00ED04;
+			font-family:"Bitter" ;
+			font-size: 14px;
+			text-align: center;
+}
+h5
+
+{
+ font-family: "Josefin Sans";
+ color: black;
+ font-size: 18px;
+ text-align: center;
+} 
+
+h3
+
+{
+ 	font-family: "Josefin Sans";
+	color:black;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 610px;
+	margin-bottom: 150px;
+	margin-left:200px;
+	margin-right: 200px;
+}
+
+h2
+{
+color: #00ED04;
+}
+
+
+ 
+
+
