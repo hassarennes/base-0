@@ -1,0 +1,201 @@
+html {
+	width: 1400px;
+	height: 1010px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	padding-left: 34px;
+	font-size: 15px;
+	width: 1139px;
+	height: 0px;
+	background: url("img/bg.jpg");
+	margin-left: -90px;
+
+
+}
+
+#currentPage a {
+	color: #609C92;
+}
+
+#headerTop {
+	
+	
+	color: #CFA205;
+	text-align: center;
+	background-color: #609C92;
+	
+
+
+
+
+}
+
+#headerSocial {
+	
+	height: 60px;
+	background-color:#609C92;
+	margin-right: 2px;
+
+
+
+
+}
+
+
+
+}
+
+#headerSubTitle {
+	font-family: "Bitter";
+	font-weight: bold;
+	height: 60px;
+	color: #609C92;
+}
+
+.headerSocialImage {
+	height: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#topMenu {
+	font-family: "Faster One";
+	list-style: none;
+	padding-top: 40px;
+	padding-left: 4px;
+	padding-right: 200px;
+	height: 24px;
+	margin-left: 145px;
+	font-size: 20px;
+	
+}
+
+.topMenuEntry a {
+	float: left;
+	text-decoration: none;
+	color: black;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.topMenuEntry a:hover,a:focus,a:active {
+	color: #00ED04;
+}
+
+h1 {
+	font-family: "VT323";
+	font-size: 121px;
+	color: #FC0000;
+	margin-bottom: 94px;
+	margin-right: 317px;
+	box-shadow: -2px 1px 1px 11px;
+	margin-left: 223px;
+	border-radius: 100px;
+	padding: 1px 1px 1px 3px;
+	background-color: white;
+}
+
+
+
+
+
+
+
+
+#container
+{ 	 
+	box-shadow: 0px 12px 35px 152px;
+
+
+}
+body {
+
+	   color: black;
+	background-color: #5EB6DD;
+	opacity: 1.5;
+	width: 900px;
+	height: 103%;
+	border: 10px;
+	margin-left: 290px;
+	padding: 60px 56px 527px 56px;
+}
+
+
+.columns {
+			-webkit-columns:  100px 3;
+-moz-columns: 100px 3;
+columns:  100px 3;
+	width: 700px;
+	height: 100%;
+	margin-left: 7px;
+	margin-top: 400px;
+		}
+.img
+{
+width: 260px;
+height: 225px;
+margin-right: 650px;
+margin-top: -58px;
+margin-left: 20px;
+}
+
+
+.image{
+width: 300px;
+height: 300px;
+margin-bottom: 50px;
+margin-top: 100px;
+margin-left: -27px;
+
+
+}
+
+
+	
+#p{
+			color: #333;
+			padding: 5px;
+			background: #00ED04;
+			font-family:"Bitter" ;
+			font-size: 14px;
+			text-align: center;
+}
+h5
+
+{
+ font-family: "Lobster";
+ color: #7FC6BC;
+ font-size: 50px;
+ text-align: center;
+ margin: 10px 10px 10px 10px;
+} 
+
+h3
+
+{
+ 	font-family: "Josefin Sans";
+	color:black;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 610px;
+	margin-bottom: 150px;
+	margin-left:200px;
+	margin-right: 200px;
+}
+
+h2
+{
+color: #00ED04;
+}
+
+
+ 
+
+

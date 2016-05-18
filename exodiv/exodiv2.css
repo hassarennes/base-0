@@ -1,0 +1,279 @@
+html	 
+{
+
+}
+
+
+#container
+{  clear: both; 
+   height: 600px;
+   width: 80%;
+   background-color: white;
+   margin: 0 auto;
+
+}
+
+
+
+#headertop
+{ 	    
+
+        height: 80px;
+        width: 937px;
+        background-color: #37BBD2;
+        margin-left: 12px;
+        
+
+}
+
+.imglogo
+
+{
+    background-image: url("img/imglogo.jpg");
+    height: 70px;
+    width: 70px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 8px;
+    margin-top: 5px;
+
+
+}
+
+
+/*#image0
+
+{
+	clear: both;
+	height: 540px;
+	width: 993px;
+	color: #000;
+	background-color: rgba(195, 255, 0, 1);
+	float: left;
+
+}*/
+
+
+
+.image1 
+{
+    clear: left;
+	height: 540px;
+	width: 321px;
+	color: #000;
+	background-color: black;
+	float: left;
+	margin-left: 12px;
+}
+
+
+
+.image11
+{
+	    height: 350px;
+        width: 300px;
+        background-color: yellow;
+        margin-top: 5px;
+        margin-left: 8px;
+        margin-bottom: 5px;
+}
+
+.large_img1
+
+{
+
+    background-image: url("img/img1.jpg");
+    height: 620px;
+    width: 640px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 8px;
+    margin-top: 5px;
+
+
+}
+
+
+.image12
+{
+	height: 175px;
+    width: 145px;
+    margin-left: 8px;
+    background-color: yellow;
+}
+
+.image13
+
+{
+   	    height: 175px;
+    width: 145px;
+    background-color: yellow;
+    margin-left: 163px;
+    margin-top: -175px;
+
+
+}
+
+.image2
+{   
+    clear: both;
+    height: 540px;
+    width: 325px;
+    color: #000;
+    background-color: black;
+    float: left;
+    margin-left: 323px;
+    margin-top: -540px;
+}
+
+
+
+.image21
+{
+
+    height: 175px;
+	width: 150px;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 5px;
+
+}
+
+.image22
+{
+	height: 175px;
+    width: 150px;
+    background-color: yellow;
+    margin-top: -180px;
+    margin-bottom: 5px;
+    float: right;
+    margin-right: 12px;
+}
+
+
+.image23
+
+{
+
+    height: 350px;
+    width: 310px;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 5px;
+    margin-right: 3px;
+}
+
+
+.large_image2
+
+{
+
+    background-image: url("img/imglogo.jpg");
+    height: 70px;
+    width: 70px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 8px;
+    margin-top: 5px;
+
+
+}
+
+
+
+.image3
+
+{   clear: both;
+    height: 540px;
+    width: 312px;
+    color: #000;
+    background-color: black;
+    margin-left: 637px;
+    margin-top: 0px;
+    position: relative;
+    top: -540;
+    
+
+}
+
+
+.image31
+{
+    clear: left;
+    height: 175px;
+    width: 300px;
+    color: #000;
+    background-color: #9595e1;
+    float: left;
+    margin-left: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+.image32
+
+{
+
+	 height: 175px;
+    width: 145px;
+    background-color: yellow;
+    margin-top: 185px;
+    margin-left: 8px;
+    margin-bottom: 5px;
+    clear: both;
+
+}
+
+
+.image33
+
+{
+
+
+  height: 175px;
+    width: 145px;
+    background-color: yellow;
+    margin-top: -180px;
+    margin-left: 163px;
+    margin-bottom: 5px;
+    position: relative;
+    bottom: 0;
+    float: left;
+}
+
+
+
+.image34
+
+{
+
+
+   height: 170px;
+    width: 145px;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-bottom: -178px;
+    position: relative;
+    bottom: 0;
+}
+
+
+.image35
+
+{
+
+
+       height: 170px;
+    width: 145px;
+    background-color: yellow;
+    margin-top: 8px;
+    margin-left: 163px;
+    margin-bottom: 5px;
+    position: relative;
+    bottom: 0;
+
+}

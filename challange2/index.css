@@ -1,0 +1,74 @@
+html
+
+{
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color:#F6E497;
+}
+
+
+nav
+
+{   height: 100px;
+	width: 1045px;
+	font-family: News Cycle;
+	
+}	
+
+
+#headerTop {
+	
+	color: #CFA205;
+	text-align: center;
+	padding-left: 240px;
+	
+}
+
+.TopMenu
+{ 	
+	float: left;
+	list-style: none;
+	font-family: News Cycle;
+	margin-left:150px;
+}
+
+
+.TopMenuEntry
+{
+  	float: left;
+	list-style: none;
+	padding-left: 90px;
+	padding-top: 28px;
+
+}
+
+
+#container
+
+{
+	width:100%;
+	height: 100%;	
+	position: fixed center;
+	margin-top: -21px;
+	background-color: green;
+
+
+}
+
+header
+
+{
+
+
+
+}
+
+h1
+{
+	
+	font-family: News Cycle;
+}
