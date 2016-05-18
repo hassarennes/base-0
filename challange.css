@@ -1,0 +1,185 @@
+html {
+	width: 1400px;
+	height: 1010px;
+	background: url("img/bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: auto;
+}
+
+header {
+	padding-left: 34px;
+	font-size: 15px;
+	width: 1139px;
+	height: 0px;
+	background: url("img/bg.jpg");
+	margin-left: -90px;
+
+
+}
+
+#currentPage a {
+	color: #CFA205;
+}
+
+#headerTop {
+	
+	color: #CFA205;
+	text-align: center;
+	background-color: black;
+	padding-bottom: 60px;
+
+
+
+}
+
+#headerSocial {
+	
+	height: 60px;
+	background-color: #E8E8E8;
+	margin-right: 2px;
+
+
+
+
+}
+
+
+
+}
+
+#headerSubTitle {
+	font-family: "Bitter";
+	font-weight: bold;
+	height: 60px;
+	color: #CFA205;
+}
+
+.headerSocialImage {
+	height: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#topMenu {
+	font-family: "Josefin Sans";
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 120px;
+	padding-right: 120px;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: -60px;
+}
+
+.topMenuEntry a {
+	float: left;
+	text-decoration: none;
+	color: #FFFFFF;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.topMenuEntry a:hover,a:focus,a:active {
+	color: #CFA205;
+}
+
+h1 {
+	font-family: "Josefin Sans";
+	font-size: 133px;
+	padding-top: 75px;
+}
+
+#container
+{ 	 
+	box-shadow: 1px 1px 1px 1px ;
+
+}
+body {
+
+	   color: white;
+	background-color: white;
+	opacity: 1.5;
+	width: 1024px;
+	height: 100%;
+	border: 10px;
+	margin-left: 150px;
+	padding: 60px 56px 500px 56px;
+}
+
+
+.columns {
+			-webkit-columns: 3;
+			-moz-columns: 3;
+			columns: 3;
+			width: 900px;
+			height: 675px;
+			margin-left: 70px;
+}
+	
+/*img
+{
+width: 260px;
+height: 190px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 10px;
+margin-left: 20px;
+}*/
+
+
+
+	
+#p{
+			color: #333;
+			padding: 5px;
+			background: beige;
+			font-family:"Bitter" ;
+			font-size: 14px;
+			text-align: center;
+}
+h5
+
+{
+ font-family: "Josefin Sans";
+ color: black;
+ font-size: 18px;
+ text-align: center;
+} 
+
+h3
+
+{
+ 	font-family: "Josefin Sans";
+	color:black;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 651px;
+	margin-bottom: 120px;
+	margin-left:200px;
+	margin-right: 200px;
+}
+
+
+
+hr
+{
+	margin-bottom: 90px;
+	margin-top: -41px;
+}
+
+
+
+h2
+{
+color: green;
+}
+
+
+ 
+
+
